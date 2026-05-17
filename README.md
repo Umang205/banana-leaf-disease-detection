@@ -31,5 +31,4 @@ This project uses Convolutional Neural Networks (CNN) and TensorFlow to detect b
 - Black Sigatoka
 - Panama Disease
 
-## Author
-Your Name
+
